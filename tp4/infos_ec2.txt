@@ -1,0 +1,1 @@
+PUBLIC IP: 34.202.143.133 , ID: i-0b312e1a441a5055b , AZ: us-east-1b
